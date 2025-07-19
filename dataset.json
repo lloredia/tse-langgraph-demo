@@ -1,0 +1,5 @@
+[
+  {"question": "What is the capital of France?", "expected_answer": "Paris"},
+  {"question": "What is 5 * 7?", "expected_answer": "35"},
+  {"question": "Who wrote '1984'?", "expected_answer": "George Orwell"}
+]
